@@ -11,7 +11,7 @@ git clone https://github.com/wabg/rncache.git ~/.rncache
 cd .rncache
 ```
 
-# 错误
+### 错误
 
 ```
 ❌  error: Build input file cannot be found: '../node_modules/react-native/third-party/double-conversion-1.1.6/src/strtod.cc'
